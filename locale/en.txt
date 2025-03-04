@@ -1,0 +1,74 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = VIRTUAL TOUR
+
+### Title
+tour.name = WATERSIDE VICTORIA APARTMENT
+
+## Skin
+
+### Button
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+
+### Multiline Text
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_447909F6_5E01_20BD_41BE_611C2194267D.label = 3.PATH
+panorama_44790D01_5E01_6157_41AB_64F7BCD6F040.label = 8.THIRD FLOOR HALLWAY
+panorama_44792064_5E01_3FDD_41D1_D0C1DF7B453F.label = 6.ENTRANCE & CONCIERGE
+panorama_44792AD9_5E01_E0F7_41C0_8661E58F4D02.label = 5.BUILDING ENTRANCE
+panorama_447942DA_5E01_20F5_41C1_46B913EAFA47.label = 9.APARTMENT DOOR 131
+panorama_44794920_5E00_E156_41CE_D181D957466D.label = 10.ENTRANCE
+panorama_44795EAC_5E00_E0AD_41C1_1503ED9599FE.label = 11.ENTRANCE
+panorama_4479926F_5E01_E3AB_41A5_81137E192B9A.label = 4.PARKING
+panorama_44799287_5E01_635B_41CC_4EB9DD9ECD35.label = 2.PATH
+panorama_4479C62D_5E01_63AF_41C4_A93B7F62B229.label = 7.RIVER SIDE
+panorama_447A42A0_5E01_2356_41B5_CB23C505F21C.label = 22.MASTER BEDROOM ENSUITE BATHROOM
+panorama_447A618F_5E03_216B_41D1_743F2573FD6A.label = 17.BEDROOM 2 RIGHT VIEW
+panorama_447A95E2_5E03_20D5_41D2_8A2D4FDD7939.label = 15.SITTING AREA
+panorama_447A9BCB_5E03_E0EB_41D2_B128946B22C7.label = 16.BEDROOM 2 LEFT VIEW
+panorama_447AB047_5E03_1FDB_418C_2B55E1699C24.label = 14.KITCHEN AREA
+panorama_447AC9E1_5E03_60D7_41D3_7540DAEA80F8.label = 13.DINING AREA
+panorama_447AF437_5E03_27BB_41C2_75F13DAF2C6A.label = 12.MAIN BATHROOM
+panorama_447B73BF_5E00_E0AB_41D4_1067C9FC038E.label = 21.MASTER BEDROOM RIGHT VIEW
+panorama_447B8797_5E03_217B_41BD_F9C97BF5E668.label = 18.BALCONY LEFT VIEW
+panorama_447B92CD_5E03_20EF_41BF_DDFBCCC44394.label = 20.BALCONY RIGHT VIEW
+panorama_447BBD22_5E03_6155_41D2_D037DE30A06B.label = 19.BALCONY MIDDLE VIEW
+panorama_447BE877_5E03_2FBB_41D2_2AA7353F548A.label = 20.MASTER BEDROOM LEFT VIEW
+panorama_45F9D63B_5E01_23AB_41D5_F2105C9813DB.label = 1.MAIN ENTRANCE SECURITY & BARRIER
+
+## Popup
+
+### Body
+htmlText_45260FF0_5EDB_34E6_41D7_765FA0975115.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Victoria Train Station On This Side</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_4764B9E5_5EDD_3CE9_41D6_FB753EB648CB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Must Present Fob Key To Enter Apartment Building Hallway Leading To Stairs &amp; Lifts</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_48FBB1E9_5EBB_4CE6_4173_7837618D3D12.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Visitors Free Parking</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_4948FEC5_5ECD_572E_41BF_5AE90898255F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Apartment Concierge / Information Desk</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_4E87B9D2_5E55_FD26_41B6_038FC640B4BD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Main Entrance Security Guard Office.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B/></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc6600;font-size:25px;"><B>Visitors Must Report  To This Office To Get The Security Barrier Open  For Vehicle To Pass.</B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_15A5A5C5_5E57_541E_41D2_82CA7F118F7E.toolTip = Exit Virtual Tour To Main Entrance.
+HotspotPanoramaOverlayArea_41154515_5E55_5529_41D0_30FAAAE1BC80.toolTip = To Concierge Ground Floor Via Lifts
+HotspotPanoramaOverlayArea_6C228908_5E54_FD27_41D1_2A52859BA750.toolTip = Inbuilt Wardrobe
+HotspotPanoramaOverlayArea_6D279879_5E5B_DBD9_41A7_C9A679B32740.toolTip = Exit Virtual Tour To Main Main Entrance
+HotspotPanoramaOverlayArea_70FC81D2_5E5B_4D2B_41C9_AB6399C43506.toolTip = Storage / Electric Board / Water Meter
+HotspotPanoramaOverlayArea_71007089_5E4D_4B39_41C9_41C2911C644C.toolTip = Exit To Hallway
+HotspotPanoramaOverlayArea_7123418A_5E54_CD38_41BF_C44A0193A52F.toolTip = Storage / Washing Machine / Boiler
+HotspotPanoramaOverlayArea_72AB95BD_5E4D_5559_41D5_DBB648FD3A40.toolTip = To Entrance
+HotspotPanoramaOverlayArea_73961D0A_5E4D_353B_41C5_3A975469A66E.toolTip = To Master Bedroom
+HotspotPanoramaOverlayArea_74CDFF9D_5FBB_D559_41D4_0D6D0563E62B.toolTip = To Dining Kitchen / Sitting Room Area
+HotspotPanoramaOverlayArea_760402AC_5FCC_CF7F_41CC_68232A8DC4B5.toolTip = Main Bathroom
+HotspotPanoramaOverlayArea_772E7187_5FDB_4D28_41A5_CA37BB8A5479.toolTip = Welcome To Apartment 131. Please Enter.
+HotspotPanoramaOverlayArea_77FBA8A7_5FD4_DB69_41B9_1588E9B23B88.toolTip = To Bedroom 2
+HotspotPanoramaOverlayArea_77FDD695_5FCD_3729_41C0_4FAFFD56F86F.toolTip = Exit To Hallway
+HotspotPanoramaOverlayArea_7ED5B876_5E5F_FBEB_41B0_3D3BF4965C10.toolTip = To Concierge Ground Floor Via Stairs
